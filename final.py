@@ -68,7 +68,7 @@ Label(info_frame, text="HỆ THỐNG PHÂN LOẠI RÁC TÁI CHẾ",
       font=("Segoe UI", 22, "bold"), fg="#1e293b", bg=COLOR_CARD).pack(pady=(15, 5))
 Label(info_frame, text="Sử dụng AI & Computer Vision", 
       font=("Segoe UI", 12), fg="#64748b", bg=COLOR_CARD).pack(pady=(0, 5))
-Label(info_frame, text="Nhóm 03 - YOLO Object Detection", 
+Label(info_frame, text="YOLO Object Detection", 
       font=("Segoe UI", 11, "italic"), fg="#94a3b8", bg=COLOR_CARD).pack()
 
 # LOGO 2 (Phải)
